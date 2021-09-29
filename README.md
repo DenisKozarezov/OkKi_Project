@@ -1,4 +1,4 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/DenisKozarezov/OkKi_Project?style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/DenisKozarezov/OkKi_Project?style=flat-square) ![GitHub forks](https://img.shields.io/github/forks/DenisKozarezov/OkKi_Project?style=social)
 
 ## Команда OкКи
 
