@@ -1,3 +1,5 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/DenisKozarezov/OkKi_Project?style=flat-square)
+
 ## Команда OкКи
 
 ## Состав команды
