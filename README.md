@@ -1,6 +1,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/DenisKozarezov/OkKi_Project?style=flat) ![GitHub contributors](https://img.shields.io/github/contributors/DenisKozarezov/OkKi_Project?color=green) ![GitHub issues](https://img.shields.io/github/issues-raw/DenisKozarezov/OkKi_Project)
 
-![alt-text](https://lh3.googleusercontent.com/Q-JwDy5HGs8vXE7jsRV8_r7lw_9gtsh0yycUrcPKh-zCEIggOgnBtAFZ3qZXdgvLa1E)
+![alt-text](https://lh3.googleusercontent.com/Q-JwDy5HGs8vXE7jsRV8_r7lw_9gtsh0yycUrcPKh-zCEIggOgnBtAFZ3qZXdgvLa1E=h500)
 
 ## Команда OкКи
 
