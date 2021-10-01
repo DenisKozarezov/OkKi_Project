@@ -1,4 +1,4 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/DenisKozarezov/OkKi_Project?style=flat) ![GitHub contributors](https://img.shields.io/github/contributors/DenisKozarezov/OkKi_Project?color=green) ![GitHub issues](https://img.shields.io/github/issues-raw/DenisKozarezov/OkKi_Project) ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/DenisKozarezov/OkKi_Project?include_prereleases) ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/DenisKozarezov/OkKi_Project?color=orange)
+![GitHub repo size](https://img.shields.io/github/repo-size/DenisKozarezov/OkKi_Project?style=flat) ![GitHub contributors](https://img.shields.io/github/contributors/DenisKozarezov/OkKi_Project?color=green) ![GitHub issues](https://img.shields.io/github/issues-raw/DenisKozarezov/OkKi_Project) ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/DenisKozarezov/OkKi_Project?include_prereleases)
 
 <p align="center">
   <img src="https://lh3.googleusercontent.com/Q-JwDy5HGs8vXE7jsRV8_r7lw_9gtsh0yycUrcPKh-zCEIggOgnBtAFZ3qZXdgvLa1E=h500">
