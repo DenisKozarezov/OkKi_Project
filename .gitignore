@@ -1,2 +1,5 @@
 env
-\result.png
+result.png
+form.ui
+__pycache__
+.qt_for_python
