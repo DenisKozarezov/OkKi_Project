@@ -6,7 +6,7 @@
 
 ## Описание программного продукта
 
-This free ASCII-Converter creator allows you to convert images to color or monochrome ASCII-Art. Supports multiple options including color, background color, brightness, contrast, font size, custom charset, and more.
+This free ASCII-Converter allows you to convert images to color or monochrome ASCII-Art. Supports multiple options including color, background color, brightness, contrast, font size, custom charset, and more.
 This app provides a wide range as output formats, including Text, PNG image. You can create an ASCII-art from image instantly real-time on your browser or in desktop-software. In order to convert a picture, you just need to select a picture from your computer or copy from the buffer.
 ## Команда OкКи
 
